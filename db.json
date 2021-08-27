@@ -1,0 +1,88 @@
+{
+  "github-users": [
+    {
+      "id": 1,
+      "image": "https://randus.org/photos/w/039fbc3c3c3c197f.jpg",
+      "username": "NakkiBueTy43",
+      "email": "dd@gna.ru",
+      "location": "yellow street",
+      "follower": 35,
+      "following": 12,
+      "repo":{
+        "reponame":"NakkiBueTy43",
+        "forks":5,
+        "stars": 60
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://randus.org/photos/m/c389bd8bbfff9f00.jpg",
+      "username": "AmadeusRoshtin180",
+      "email": "ad@gna.ru",
+      "location": "Denny Light street",
+      "follower": "AmadeusRoshtin180",
+      "following": 2,
+      "repo": {
+        "reponame":"AmadeusRoshtin180",
+        "forks":2,
+        "stars": 17
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://randus.org/photos/w/80c2f8e97d7cb818.jpg",
+      "username": "YaroslavaSmirnova448",
+      "email": "56@gna.com",
+      "location": "Mark Twen street",
+      "follower": 34,
+      "following": 2,
+      "repo":{
+        "reponame":"YaroslavaSmirnova448",
+        "forks":1,
+        "stars": 3
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://randus.org/photos/m/c39bbf9bbce29001.jpg",
+      "username": "YuriyZhuravlev657",
+      "email": "66@na.ru",
+      "location": "asfg",
+      "follower": 345,
+      "following": 112,
+      "repo": {
+        "reponame":"YuriyZhuravlev657",
+        "forks":1,
+        "stars": 30
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://randus.org/photos/m/00183c58fdf53dd9.jpg",
+      "username": "KlavdiySochinskiy131",
+      "email": "asgF@.ru",
+      "location": "",
+      "follower":688,
+      "following": 29,
+      "repo":  {
+        "reponame":"KlavdiySochinskiy131",
+        "forks":0,
+        "stars": 0
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://randus.org/photos/w/c7838b093d3d3919.jpg",
+      "username": "EvlampiyaAndreeva399",
+      "email": 2,
+      "location": "https://randus.org/photos/m/c389bd8bbfff9f00.jpg",
+      "follower": "AmadeusRoshtin180",
+      "following": 2,
+      "repo": {
+        "reponame":"Am",
+        "forks":1,
+        "stars": 15
+      }
+    }
+  ]
+}
